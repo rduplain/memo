@@ -1,6 +1,7 @@
 * [Reflections of Software as Craft](software-as-craft-reflections.pdf)
 * [Craft, Programming, and Engineering](craft-programming-engineering.md)
 * [College Advice for New Programmers](advice-for-new-programmers.md)
+* [Systems Engineering Grad Admissions Essay](systems-engineering-grad-admissions-essay.md)
 * [Startups for People with Problems](startups-for-people-with-problems.md)
 * [Terraform: An Opinionated Guide](terraform-guide.md)
 * [AWS Load Balancers & End-to-End Encryption](aws-load-balancer-end-to-end-encryption.md)
