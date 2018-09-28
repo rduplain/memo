@@ -1,10 +1,32 @@
-% rduplain on startups
+% Startups for People with Problems \
+  (_The Seed to a New Company_)
 % Ron DuPlain
-% 2018-09-09
+% September 2018
 
-Executive opinions follow. Everything here is from my own experience. You will
-find many articles and books. Too many. The only way to get traction here is to
-write it out. Here we go. Send to printer and grab two cups of coffee.
+## Purpose
+
+When you have a problem, a real problem affecting real people, and you cannot
+shake off your ideas on how to solve it, you'll eventually come across the
+notion that maybe you should start a new company. You'll certainly find
+resources if you identify as an entrepreneur. If, like me, you are more focused
+on solving problems than creating companies, you'll perhaps wonder where to
+begin.
+
+This essay sits between "generate and validate good startup ideas" and "build
+and run an effective company." Given an idea worth pursuing, this essay
+provides an exposition on how to _create a company worth investment the moment
+you consider raising funds_.
+
+There are many expositions on startups. This one is mine. I am speaking from a
+founder perspective.
+
+
+## About Me
+
+I am an engineer first and foremost. I have been involved in entrepreneurial
+projects for my entire engineering career. Being a CTO who has "done it
+before", I often get questions about startups. This essay can serve as an
+accelerator from "pick your brain" to specific questions in context.
 
 
 ## #1: All about raising capital.
