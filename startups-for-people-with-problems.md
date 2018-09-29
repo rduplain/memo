@@ -31,9 +31,36 @@ before", I often get questions about startups. This essay can serve as an
 accelerator from "pick your brain" to specific questions in context.
 
 
-## #1: All about raising capital.
+## #1: Make sure it is a business.
 
-The path of raising capital is to build wealth.
+I always start here.
+
+* Imagine your product or service.
+* Imagine your market.
+* Guess the size of the market. How many customers in total might exist?
+* Make up a price.
+* If you get 10% of the market at the price, do you have a business?
+
+Even if these are wild guesses, and even if 10% is unrealistic, if you can look
+at these numbers on the back of your cocktail napkin envelope and get excited,
+then you are on to something. People spend weeks, months, and even years before
+doing this on a business model which would fail this simple test.
+
+
+## #2: Make sure it is a business that you want to run.
+
+Very often, people excited about ideas. What if had this? What if you could do
+that? Make sure the idea driving your startup is a business that you actually
+want to run, because you are going to be the one running it.
+
+Keep exploring business models until you have a business that you want to run.
+
+Find a cofounder as needed.
+
+
+## #3: All about raising capital.
+
+The path of raising capital is one of building wealth.
 
 Identify a product/service of value, make a plan to deliver, make a projection
 of the market and respective share, and put these together to claim a
@@ -54,10 +81,12 @@ licensing/transferring existing intellectual property.
 
 Your valuation is low or impossible to predict when are you getting
 started. You will uncover many solutions to this very problem. [SAFE
-notes](https://www.ycombinator.com/documents/) are popular, even with their
-[own
-problems](https://techcrunch.com/2017/07/08/why-safe-notes-are-not-safe-for-entrepreneurs/). The
-idea is to defer a more firm valuation until a later date.
+notes][safe-notes] are popular, even with their
+[own problems][safe-note-problems]. The idea is to defer a more firm valuation
+until a later date.
+
+[safe-notes]: https://www.ycombinator.com/documents/
+[safe-note-problems]: https://techcrunch.com/2017/07/08/why-safe-notes-are-not-safe-for-entrepreneurs/
 
 With every new investment, founders dilute. As do any other shareholders:
 common stock holders (anyone receiving equity in lieu of compensation, founders
@@ -72,9 +101,8 @@ point in raising capital instead of bootstrapping your business based on
 revenue. You need the capital to get the revenue (or else it is not advisable
 to raise [as much] capital).
 
-Noting that I'm speaking to a M.D. & Co who is for the first time considering a
-startup... **Once you get past the complete overwhelm of all of this, continue
-reading when you have the moment of:**
+**Once you get past the complete overwhelm of all of this, continue reading
+when you have the moment of:**
 
 > **Ah, so that's the "capital" in capitalism!**
 > **All these years, "capital" hiding in plain sight.**
@@ -129,7 +157,7 @@ tested. Especially when you are taking real dollars from people who know
 precisely their relationship to money and to risk.
 
 
-## #2: Keep the cap table clean.
+## #4: Keep the cap table clean.
 
 For context, consider the "serial entrepreneur":
 
@@ -146,9 +174,9 @@ to give them equity instead of cash since (a) you do not have much cash but you
 have a lot of equity and (b) you want them to have an incentive in your
 success.
 
-Be slow in giving out equity. Building a successful business is a long game. A
-contribution will feel like a lot today, but could be a small blip in the long
-run.
+Be slow in giving out equity _at this point_. Building a successful business is
+a long game. A contribution will feel like a lot today, but could be a small
+blip in the long run.
 
 It's not selfish to keep equity to yourself. It's what's best for the
 company. You run a company now.
@@ -161,31 +189,14 @@ Besides, people do not expect compensation when helping out. Not at first,
 anyway.
 
 
-## #3: Vest.
+## #5: Vest.
 
 When you give people equity in the form of common stock, have it vest over time
 instead of having them hold the equity immediately. This is true for
-cofounders, no matter how well you trust them (though exceptions are
-appropriate when you already share finances in a life partnership).
+cofounders, no matter how well you trust them.
 
 
-## #4: Make a projection on market fit.
-
-I always start here.
-
-* Imagine your product or service.
-* Imagine your market.
-* Guess the size of the market. How many customers in total might exist?
-* Make up a price.
-* If you get 10% of the market at the price, do you have a business?
-
-Even if these are wild guesses, and even if 10% is unrealistic, if you can look
-at these numbers on the back of your cocktail napkin envelope and get excited,
-then you are on to something. People spend weeks, months, and even years before
-doing this on a business model which would fail this simple test.
-
-
-## #5: A perspective on medical startups.
+## #6: A perspective on medical startups.
 
 For medical startups, namely those with a consumer audience, I have found that
 it is very important to focus on a clinically valid approach before being
@@ -205,12 +216,10 @@ quality improvement loop (dissemination & implementation of the latest evidence
 into the care setting) may be severely challenged in US healthcare, but its
 nonexistent to the "app developer."
 
-
-## #6: A series of unfortunate events.
-
 If you have a medical startup and you are raising capital, know the word
-"[theranos](https://www.npr.org/2018/09/05/644844174/theranos-blood-testing-company-accused-of-massive-fraud-says-it-will-dissolve)"
-before anyone else mentions it.
+"[theranos][theranos]" before anyone else mentions it.
+
+[theranos]: https://www.npr.org/2018/09/05/644844174/theranos-blood-testing-company-accused-of-massive-fraud-says-it-will-dissolve
 
 
 ## #7: Roller Coasters
