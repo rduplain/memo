@@ -2,9 +2,7 @@
 
 _The Moment You Consider Raising Funds_
 
-**Ron DuPlain**
-
-September 2018
+by **Ron DuPlain**
 
 
 ## Purpose
