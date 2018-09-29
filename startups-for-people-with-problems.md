@@ -1,6 +1,6 @@
 # Startups for People with Problems
 
-_The Seed to a New Company_
+_The Moment You Consider Raising Funds_
 
 **Ron DuPlain**
 
