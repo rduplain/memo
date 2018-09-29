@@ -1,7 +1,11 @@
-% Startups for People with Problems \
-  (_The Seed to a New Company_)
-% Ron DuPlain
-% September 2018
+# Startups for People with Problems
+
+_The Seed to a New Company_
+
+**Ron DuPlain**
+
+September 2018
+
 
 ## Purpose
 
