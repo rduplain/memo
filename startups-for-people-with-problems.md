@@ -101,9 +101,9 @@ could reinvest its profits, enter new markets, or be acquired. Acquisition
 would mean selling majority or full ownership of the company to another
 company, or merging with one.
 
-S01E01 of _HBO's Silicon Valley_ has an incredible moment right up front in
-which the founder is considering whether to sell the company or take
-investment. The two investors know way more than the founder, and the
+The very first episode of _HBO's Silicon Valley_ has an incredible moment right
+up front in which the founder is considering whether to sell the company or
+take investment. The two investors know way more than the founder, and the
 discussion is at once fast-paced/dizzying and profoundly insightful/accurate.
 
 Short of getting an acquisition offer before you even start (as in _Silicon
