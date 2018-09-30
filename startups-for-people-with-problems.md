@@ -31,6 +31,18 @@ startups. This essay can serve as an accelerator from "pick your brain" to
 specific questions in context.
 
 
+## Table of Contents
+
+- [#1: Make sure it is a business.](#%231-make-sure-it-is-a-business)
+- [#2: Make sure it is a business that you want to run.](#%232-make-sure-it-is-a-business-that-you-want-to-run)
+- [#3: All about capital.](#%233-all-about-capital)
+- [#4: Keep the cap table clean.](#%234-keep-the-cap-table-clean)
+- [#5: Vest.](#%235-vest)
+- [#6: A perspective on medical startups.](#%236-a-perspective-on-medical-startups)
+- [#7: Roller coasters.](#%237-roller-coasters)
+- [#8: You will meet people with big egos.](#%238-you-will-meet-people-with-big-egos)
+
+
 ## #1: Make sure it is a business.
 
 I always start with a simple cocktail-napkin test:
