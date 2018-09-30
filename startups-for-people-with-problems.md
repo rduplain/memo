@@ -38,9 +38,10 @@ specific questions in context.
 - [#3: All about capital.](#%233-all-about-capital)
 - [#4: Keep the cap table clean.](#%234-keep-the-cap-table-clean)
 - [#5: Vest.](#%235-vest)
-- [#6: A perspective on medical startups.](#%236-a-perspective-on-medical-startups)
-- [#7: Roller coasters.](#%237-roller-coasters)
-- [#8: You will meet people with big egos.](#%238-you-will-meet-people-with-big-egos)
+- [#6: Splitting equity.](#%236-splitting-equity)
+- [#7: A perspective on medical startups.](#%237-a-perspective-on-medical-startups)
+- [#8: Roller coasters.](#%238-roller-coasters)
+- [#9: You will meet people with big egos.](#%239-you-will-meet-people-with-big-egos)
 
 
 ## #1: Make sure it is a business.
@@ -230,7 +231,64 @@ instead of having them hold the equity immediately. This is true for everyone,
 including cofounders, no matter how well you trust them.
 
 
-## #6: A perspective on medical startups.
+## #6: Splitting equity.
+
+How do you split equity among founders? Engage in respectful discussion until
+you have consensus.
+
+A good starting point is to consider all founders as equal contributors:
+
+* 50/50
+* 33.3/33.3/33.3 (Where does that 0.1% go?)
+* 25/25/25/25
+* ...
+
+I prefer to wait until the team has consensus on how the business will provide
+value before discussing how to split equity. It's reasonable to split equity
+based on relative contribution to the startup, but:
+
+* it is hard to measure relative contribution
+* it is even harder to agree on relative contribution
+* relative contribution changes over time
+
+Founders dilute equally, and it's important to identify the split and expect to
+stick to it. It's possible to shift relative equity later with option grants,
+but do not count on this.
+
+In particular, it's useful to have non-equal splits to avoid requiring a
+tie-breaker. In the case of two founders working to build a prototype:
+
+* 51% -- Founder A
+* 44% -- Founder B
+* 5% -- Option Pool (to distribute to other contributors)
+
+Founder A will have majority until the company adds investors, which will
+dilute all of the above common stock shareholders. At this point, the company
+with either need agreement of the founders or agreement of one founder with
+investors in order to have a majority decision. Accordingly, you may want to
+project the fully diluted cap table after seed investment to be:
+
+* 51% -- Founder A
+* 29% -- Founder B
+* 15% -- Seed Investors
+* 5% -- Option Pool (to distribute to other contributors)
+
+Why would _Founder B_ do this, and who wants to be "_B_" anyway? Perhaps
+_Founder A_ is the domain expert with business savvy who understands the
+problem. Perhaps the company will be more productive--and therefore more
+rapidly increase its valuation--if _Founder A_ can execute on a vision as the
+sole decision-maker. The total value of each person's equity share is more
+important than the percentage each founder has.
+
+It's possible to achieve a certain decision-making pattern with non-voting
+shares in order to separate economic rights (financial value of equity) from
+voting rights.
+
+There's no right answer. No matter how decisions are made, consensus and buy-in
+are critical. Trust is paramount.
+
+
+## #7: A perspective on medical startups.
 
 For medical startups, namely those with a consumer audience, I have found that
 it is very important to focus on a clinically valid approach before being
@@ -256,7 +314,7 @@ If you have a medical startup and you are raising capital, know the word
 [theranos]: https://www.npr.org/2018/09/05/644844174/theranos-blood-testing-company-accused-of-massive-fraud-says-it-will-dissolve
 
 
-## #7: Roller coasters.
+## #8: Roller coasters.
 
 A startup is an emotional roller coaster until you are convinced that the
 company/product/service that you are building is valid. Who knows when that
@@ -267,7 +325,7 @@ Once off the emotional roller coaster, you are on the stress roller
 coaster. "What's the problem today?"
 
 
-## #8: You will meet people with big egos.
+## #9: You will meet people with big egos.
 
 ... and they will be so charismatic they will naturally feign a sense of
 humility.
