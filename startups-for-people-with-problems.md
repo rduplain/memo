@@ -284,8 +284,14 @@ It's possible to achieve a certain decision-making pattern with non-voting
 shares in order to separate economic rights (financial value of equity) from
 voting rights.
 
-There's no right answer. No matter how decisions are made, consensus and buy-in
-are critical. Trust is paramount.
+Discuss equity plans with the company's legal counsel, noting that the counsel
+will be representing the interests of the new startup company and not of
+individuals (though may bias to whomever the CEO is by extension of
+representing the company's interests). You have legal counsel for your new
+startup company, right?
+
+There's no right answer on how to split equity. No matter how decisions are
+made, consensus and buy-in are critical. Trust is paramount.
 
 
 ## #7: A perspective on medical startups.
