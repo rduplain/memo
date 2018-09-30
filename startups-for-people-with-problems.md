@@ -106,10 +106,10 @@ up front in which the founder is considering whether to sell the company or
 take investment. The two investors know way more than the founder, and the
 discussion is at once fast-paced/dizzying and profoundly insightful/accurate.
 
-Short of getting an acquisition offer before you even start (as is fiction in
-_Silicon Valley_), valuation at this stage is going to be more about
-projections than fundamentals. You are starting entirely with intangible value,
-unless you are licensing/transferring existing intellectual property.
+Short of getting an acquisition offer before you even start--as is fiction in
+_Silicon Valley_--valuation at this stage is going to be more about projections
+than fundamentals. You are starting entirely with intangible value, unless you
+are licensing/transferring existing intellectual property.
 
 Your valuation is low or impossible to predict when are you getting
 started. You will uncover many solutions to this very problem. [SAFE
@@ -143,7 +143,7 @@ due. Treat credit cards like your own cash.)
 
 With every new investment, founders dilute. As do any other shareholders:
 common stock holders (anyone receiving equity as part of compensation, founders
-included), and previous investors. This means that if you are 100% owner, or if
+included) and previous investors. This means that if you are 100% owner, or if
 you have a 50/50 split (etc) between founders, then your share in the total
 ownership will decrease as you add each investor. All of this is tracked in a
 document called the capitalization table ("cap table" for "who put in what"
@@ -151,8 +151,8 @@ starting with founder share).
 
 Put another way, you own a smaller piece of a larger pie. That is the whole
 point in raising capital instead of bootstrapping your business through
-revenue. You need the capital to get the revenue (or else it is not advisable
-to raise [as much] capital).
+revenue. You need the capital to get the revenue, or else it is not advisable
+to raise (as much) capital.
 
 **Once you get past the complete overwhelm of all of this, continue reading
 when you have the moment of:**
@@ -160,15 +160,15 @@ when you have the moment of:**
 > **Ah, so that's the "capital" in capitalism!**
 > **All these years, "capital" hiding in plain sight.**
 
-At every round of funding (commonly: seed [sometimes called "angel"], A, B, C,
-...), there is a balancing act to raise the right amount of capital. You want
-to balance valuation with runway. The CEO has a responsibility to shareholders
-to maximize the value of existing shares. In a few words, take a good deal (and
+At every round of funding--commonly: seed (sometimes called "angel"), A, B, C,
+...--there is a balancing act to raise the right amount of capital. You want to
+balance valuation with runway. The CEO has a responsibility to shareholders to
+maximize the value of existing shares. In a few words, take a good deal (and
 make revenue a top priority). But with an acceptable level of risk. If you do
 not raise enough money (the runway), then the company could go out of business
 or be in a vulnerable position for future investment, leading to a down round
-in which shares are purchased a value lower than the previous round (... which
-is _not good_).
+in which shares are purchased a value lower than the previous round--which is
+_not good_.
 
 The seed round is often called the angel round, because the amounts (10s or
 100s of thousands) are more appropriate to individuals of high net worth
@@ -188,12 +188,12 @@ A few words about institutional investors, noting that I am speaking from the
 founder's perspective and not the investor's:
 
 * Investors are generally interested in financial projections which have
-  oversized returns, meaning that the projection has exponential growth
-  (whereas small businesses or long-running companies will focus on
+  oversized returns, meaning that the projection has exponential
+  growth. Conversely, small businesses or long-running companies will focus on
   year-over-year growth, which is approximately linear or compounded growth
-  rates). Imagine a slide deck with a hockey stick projecting valuation
-  (typically revenue). Even if it is made up, many investors want to see that
-  you will go after it regardless.
+  rates. Imagine a slide deck with a hockey stick projecting valuation,
+  typically revenue. Even if it is made up, many investors want to see that you
+  will go after it regardless.
 * Very often a startup has more than one investor in a round. The first
   investor to commit will shape the terms for other investors.
 * Raising money often means talking to 10 prospective investors for every 1
@@ -307,8 +307,8 @@ voting rights.
 
 Discuss equity plans with the company's legal counsel, noting that the counsel
 will be representing the interests of the new startup company and not of
-individuals (though may bias to whomever the CEO is by extension of
-representing the company's interests). You have legal counsel for your new
+individuals, though may bias to whomever the CEO is by extension of
+representing the company's interests. You have legal counsel for your new
 startup company, right?
 
 There's no right answer on how to split equity. No matter how decisions are
