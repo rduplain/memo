@@ -120,6 +120,27 @@ until a later date.
 [safe-notes]: https://www.ycombinator.com/documents/
 [safe-note-problems]: https://techcrunch.com/2017/07/08/why-safe-notes-are-not-safe-for-entrepreneurs/
 
+You can raise funds with debt instead of selling shares of equity. This often
+means a "note payable" at a maturity date, with some percentage of return. For
+example, borrow $100k and repay $112k a year later, using 12% of simple
+interest maturing annually. In general, investors will want to convert the note
+into equity over time, reinvesting the return instead of remitting payment,
+which ultimately arrives at note instruments for future equity, i.e. SAFE notes
+as mentioned above. Besides, a 12% rate of return is better invested in lower
+risk ventures, and startups are best optimized toward the highest valuation
+with the least amount of cash.
+
+There are also financial instruments which provide a same-as-cash line of
+credit from a conventional bank, but the psychology of startup finance is to
+invest for the long term with high return resulting from high risk. In general,
+your balance sheet takes on cash when you sell shares to an investor or
+products and services to a customer.
+
+(Note that when you do take on debt instruments, creditors will look to
+founders to personally guarantee the funds, making you liable for the cash in
+the event of default, i.e. when the new startup company misses a payment
+due. Treat credit cards like your own cash.)
+
 With every new investment, founders dilute. As do any other shareholders:
 common stock holders (anyone receiving equity as part of compensation, founders
 included), and previous investors. This means that if you are 100% owner, or if
