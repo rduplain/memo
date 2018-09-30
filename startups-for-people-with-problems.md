@@ -106,10 +106,10 @@ up front in which the founder is considering whether to sell the company or
 take investment. The two investors know way more than the founder, and the
 discussion is at once fast-paced/dizzying and profoundly insightful/accurate.
 
-Short of getting an acquisition offer before you even start (as in _Silicon
-Valley_), valuation at this stage is going to be more about projections than
-fundamentals. You are starting entirely with intangible value, unless you are
-licensing/transferring existing intellectual property.
+Short of getting an acquisition offer before you even start (as is fiction in
+_Silicon Valley_), valuation at this stage is going to be more about
+projections than fundamentals. You are starting entirely with intangible value,
+unless you are licensing/transferring existing intellectual property.
 
 Your valuation is low or impossible to predict when are you getting
 started. You will uncover many solutions to this very problem. [SAFE
