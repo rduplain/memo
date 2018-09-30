@@ -33,18 +33,29 @@ specific questions in context.
 
 ## #1: Make sure it is a business.
 
-I always start here.
+I always start with a simple test:
 
 * Imagine your product or service.
-* Imagine your market.
-* Guess the size of the market. How many customers in total might exist?
+* Imagine your market. Who is your customer?
+* Guess the size of the market. How many total customers might exist?
 * Make up a price.
 * **If you get 10% of the market at the price, do you have a business?**
 
 Even if these are wild guesses, and even if 10% is unrealistic, if you can look
-at these numbers on the back of your cocktail napkin envelope and get excited,
-then you are on to something. People spend weeks, months, and even years on a
-business model which would fail this simple test.
+at these numbers on the back of your cocktail napkin and get excited, then you
+are on to something. 10% of the market at your made-up price can either feel
+like (a) a very big deal or (b) enough to keep expanding the business. Both are
+valid at this point when the market is big or you believe that you can capture
+a majority of a niche market, respectively.
+
+Your work will soon be to validate these assertions, but if you cannot step
+through this simple test, then you don't have a potential product-market fit
+and _you do not have a business_. You may have reasons to continue without a
+business model anyway. I recommend making it a habit to apply this simple test
+as you explore business models.
+
+People spend weeks, months, and even years on a business model which would fail
+this simple test.
 
 
 ## #2: Make sure it is a business that you want to run.
