@@ -33,7 +33,7 @@ specific questions in context.
 
 ## #1: Make sure it is a business.
 
-I always start with a simple test:
+I always start with a simple cocktail-napkin test:
 
 * Imagine your product or service.
 * Imagine your market. Who is your customer?
