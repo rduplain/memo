@@ -160,15 +160,15 @@ when you have the moment of:**
 > **Ah, so that's the "capital" in capitalism!**
 > **All these years, "capital" hiding in plain sight.**
 
-At every round of funding--commonly: seed (sometimes called "angel"), A, B, C,
-...--there is a balancing act to raise the right amount of capital. You want to
-balance valuation with runway. The CEO has a responsibility to shareholders to
-maximize the value of existing shares. In a few words, take a good deal (and
-make revenue a top priority). But with an acceptable level of risk. If you do
-not raise enough money (the runway), then the company could go out of business
-or be in a vulnerable position for future investment, leading to a down round
-in which shares are purchased a value lower than the previous round--which is
-_not good_.
+Funding happens in rounds, commonly: seed (sometimes called "angel"), A, B, C,
+.... At every round of funding, there is a balancing act to raise the right
+amount of capital. You want to balance valuation with runway. The CEO has a
+responsibility to shareholders to maximize the value of existing shares. In a
+few words, take a good deal (and make revenue a top priority). But with an
+acceptable level of risk. If you do not raise enough money (the runway), then
+the company could go out of business or be in a vulnerable position for future
+investment, leading to a down round in which shares are purchased a value lower
+than the previous round--which is _not good_.
 
 The seed round is often called the angel round, because the amounts (10s or
 100s of thousands) are more appropriate to individuals of high net worth
