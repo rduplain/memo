@@ -16,8 +16,7 @@ begin.
 
 This essay sits between "generate and validate good startup ideas" and "build
 and run an effective company." Given an idea worth pursuing, this essay
-provides an exposition on how to _create a company worth investment the moment
-you consider raising funds_.
+provides an exposition for _the moment you consider raising funds_.
 
 There are many expositions on startups. This one is mine. I am speaking from a
 founder perspective.
@@ -27,8 +26,9 @@ founder perspective.
 
 I am an engineer first and foremost. I have been involved in entrepreneurial
 projects for my entire engineering career. Being a CTO who has "done it
-before", I often get questions about startups. This essay can serve as an
-accelerator from "pick your brain" to specific questions in context.
+before," I often get the open-ended request to "pick your brain" about
+startups. This essay can serve as an accelerator from "pick your brain" to
+specific questions in context.
 
 
 ## #1: Make sure it is a business.
@@ -39,28 +39,28 @@ I always start here.
 * Imagine your market.
 * Guess the size of the market. How many customers in total might exist?
 * Make up a price.
-* If you get 10% of the market at the price, do you have a business?
+* **If you get 10% of the market at the price, do you have a business?**
 
 Even if these are wild guesses, and even if 10% is unrealistic, if you can look
 at these numbers on the back of your cocktail napkin envelope and get excited,
-then you are on to something. People spend weeks, months, and even years before
-doing this on a business model which would fail this simple test.
+then you are on to something. People spend weeks, months, and even years on a
+business model which would fail this simple test.
 
 
 ## #2: Make sure it is a business that you want to run.
 
-Very often, people excited about ideas. What if had this? What if you could do
-that? Make sure the idea driving your startup is a business that you actually
-want to run, because you are going to be the one running it.
+Very often, people are excited about ideas. What if we had this? What if we
+could do that? Make sure the idea driving your startup is a business that you
+actually want to run, because you are going to be the one running it.
 
 Keep exploring business models until you have a business that you want to run.
 
 Find a cofounder as needed.
 
 
-## #3: All about raising capital.
+## #3: All about capital.
 
-The path of raising capital is one of building wealth.
+The path of raising funds ("capital") is one of building wealth.
 
 Identify a product/service of value, make a plan to deliver, make a projection
 of the market and respective share, and put these together to claim a
@@ -69,10 +69,18 @@ valuation.
 For example, raise $1M by selling 20% (fully diluted) equity in a company that
 has a (post-money) valuation of $5M.
 
+What puts a company's total value at $5M? There are a few methods, but at this
+point, it's mostly about being convinced that the revenue potential is there.
+(See #1: _Make sure it is a business_.) A company's value can be a multiple of
+its revenue, or not tied on revenue at all, based on how readily the company
+could reinvest its profits, enter new markets, or be acquired. Acquisition
+would mean selling majority or full ownership of the company to another
+company, or merging with one.
+
 S01E01 of _HBO's Silicon Valley_ has an incredible moment right up front in
-which the founder is considering selling the company vs taking investment. The
-two investors know way more than the founder, and the discussion is at once
-fast-paced/dizzying and profoundly insightful/accurate.
+which the founder is considering whether to sell the company or take
+investment. The two investors know way more than the founder, and the
+discussion is at once fast-paced/dizzying and profoundly insightful/accurate.
 
 Short of getting an acquisition offer before you even start (as in _Silicon
 Valley_), valuation at this stage is going to be more about projections than
@@ -89,7 +97,7 @@ until a later date.
 [safe-note-problems]: https://techcrunch.com/2017/07/08/why-safe-notes-are-not-safe-for-entrepreneurs/
 
 With every new investment, founders dilute. As do any other shareholders:
-common stock holders (anyone receiving equity in lieu of compensation, founders
+common stock holders (anyone receiving equity as part of compensation, founders
 included), and previous investors. This means that if you are 100% owner, or if
 you have a 50/50 split (etc) between founders, then your share in the total
 ownership will decrease as you add each investor. All of this is tracked in a
@@ -97,7 +105,7 @@ document called the capitalization table ("cap table" for "who put in what"
 starting with founder share).
 
 Put another way, you own a smaller piece of a larger pie. That is the whole
-point in raising capital instead of bootstrapping your business based on
+point in raising capital instead of bootstrapping your business through
 revenue. You need the capital to get the revenue (or else it is not advisable
 to raise [as much] capital).
 
@@ -108,20 +116,21 @@ when you have the moment of:**
 > **All these years, "capital" hiding in plain sight.**
 
 At every round of funding (commonly: seed [sometimes called "angel"], A, B, C,
-...), there is a balancing act in raising the right amount of capital. You want
+...), there is a balancing act to raise the right amount of capital. You want
 to balance valuation with runway. The CEO has a responsibility to shareholders
 to maximize the value of existing shares. In a few words, take a good deal (and
 make revenue a top priority). But with an acceptable level of risk. If you do
 not raise enough money (the runway), then the company could go out of business
 or be in a vulnerable position for future investment, leading to a down round
-in which shares are purchased a value lower than the previous round.
+in which shares are purchased a value lower than the previous round (... which
+is _not good_).
 
 The seed round is often called the angel round, because the amounts (10s or
-100s of thousands) are more appropriate to individuals of high net worth than
-to institutional firms ("VCs").
+100s of thousands) are more appropriate to individuals of high net worth
+("angels") than to institutional firms ("VCs").
 
 If you would like to raise money from friends and family, you can certainly do
-so. Tell them they will lose their money and see if they still want to do
+so. Tell them that they will lose their money and see if they still want to do
 it. Turns out, they will. Their goal is to support you, not a return on
 investment. Note that the [SEC has an opinion about who can
 invest](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
@@ -135,10 +144,11 @@ founder's perspective and not the investor's:
 
 * Investors are generally interested in financial projections which have
   oversized returns, meaning that the projection has exponential growth
-  (whereas small businesses or long-running companies will focus on year over
-  year growth, which is approximately linear or logarithmic). Imagine a slide
-  deck with a hockey stick in it. Even if it is made up, many investors want to
-  see that you will go after it regardless.
+  (whereas small businesses or long-running companies will focus on
+  year-over-year growth, which is approximately linear or compounded growth
+  rates). Imagine a slide deck with a hockey stick projecting valuation
+  (typically revenue). Even if it is made up, many investors want to see that
+  you will go after it regardless.
 * Very often a startup has more than one investor in a round. The first
   investor to commit will shape the terms for other investors.
 * Raising money often means talking to 10 prospective investors for every 1
@@ -182,8 +192,9 @@ It's not selfish to keep equity to yourself. It's what's best for the
 company. You run a company now.
 
 Keeping the cap table clean means that only founders and critical people have
-equity before raising money, and when you raise money, you do so in substantial
-rounds (much like closing on a mortgage).
+equity before raising money, and when you raise money, you do so with the full
+amount that you need to operate the company for 12-24 months (much like closing
+on a mortgage).
 
 Besides, people do not expect compensation when helping out. Not at first,
 anyway.
@@ -192,8 +203,8 @@ anyway.
 ## #5: Vest.
 
 When you give people equity in the form of common stock, have it vest over time
-instead of having them hold the equity immediately. This is true for
-cofounders, no matter how well you trust them.
+instead of having them hold the equity immediately. This is true for everyone,
+including cofounders, no matter how well you trust them.
 
 
 ## #6: A perspective on medical startups.
@@ -212,8 +223,8 @@ innovate.
 
 But Silicon Valley, and I do mean the region not the _HBO_ show, brings
 "disruption" without even a clue that _clinically valid_ is a thing. The
-quality improvement loop (dissemination & implementation of the latest evidence
-into the care setting) may be severely challenged in US healthcare, but its
+quality improvement loop--dissemination & implementation of the latest evidence
+into the care setting--may be severely challenged in US healthcare, but it's
 nonexistent to the "app developer."
 
 If you have a medical startup and you are raising capital, know the word
@@ -222,7 +233,7 @@ If you have a medical startup and you are raising capital, know the word
 [theranos]: https://www.npr.org/2018/09/05/644844174/theranos-blood-testing-company-accused-of-massive-fraud-says-it-will-dissolve
 
 
-## #7: Roller Coasters
+## #7: Roller coasters.
 
 A startup is an emotional roller coaster until you are convinced that the
 company/product/service that you are building is valid. Who knows when that
@@ -252,10 +263,10 @@ Regarding investors, there's smart money and dumb. Investors get good at asking
 questions and getting to crux of the problem. Sometimes that problem is
 actually your problem.
 
-Above all, make it a point to know your business better than anyone. And do not
-be afraid to ask questions or share your ideas.
-
 
 ## Closing
+
+Above all, make it a point to know your business better than anyone. And do not
+be afraid to ask questions or share your ideas.
 
 There's always more to say. I'll stop here.
