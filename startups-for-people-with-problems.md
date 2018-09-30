@@ -25,10 +25,10 @@ founder perspective.
 ## About Me
 
 I am an engineer first and foremost. I have been involved in entrepreneurial
-projects for my entire engineering career. Being a CTO who has "done it
-before," I often get the open-ended request to "pick your brain" about
-startups. This essay can serve as an accelerator from "pick your brain" to
-specific questions in context.
+projects for my entire engineering career. Being a programmer and C-Suite
+executive who has "done it before," I often get the open-ended request to "pick
+your brain" about startups. This essay can serve as an accelerator from "pick
+your brain" to specific questions in context.
 
 
 ## Table of Contents
