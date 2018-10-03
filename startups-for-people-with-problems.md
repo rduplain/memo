@@ -33,15 +33,15 @@ your brain" to specific questions in context.
 
 ## Table of Contents
 
-- [#1: Make sure it is a business.](#%231-make-sure-it-is-a-business)
-- [#2: Make sure it is a business that you want to run.](#%232-make-sure-it-is-a-business-that-you-want-to-run)
-- [#3: All about capital.](#%233-all-about-capital)
-- [#4: Keep the cap table clean.](#%234-keep-the-cap-table-clean)
-- [#5: Vest.](#%235-vest)
-- [#6: Splitting equity.](#%236-splitting-equity)
-- [#7: A perspective on medical startups.](#%237-a-perspective-on-medical-startups)
-- [#8: Roller coasters.](#%238-roller-coasters)
-- [#9: You will meet people with big egos.](#%239-you-will-meet-people-with-big-egos)
+- [#1: Make sure it is a business.](#1-make-sure-it-is-a-business)
+- [#2: Make sure it is a business that you want to run.](#2-make-sure-it-is-a-business-that-you-want-to-run)
+- [#3: All about capital.](#3-all-about-capital)
+- [#4: Keep the cap table clean.](#4-keep-the-cap-table-clean)
+- [#5: Vest.](#5-vest)
+- [#6: Splitting equity.](#6-splitting-equity)
+- [#7: A perspective on medical startups.](#7-a-perspective-on-medical-startups)
+- [#8: Roller coasters.](#8-roller-coasters)
+- [#9: You will meet people with big egos.](#9-you-will-meet-people-with-big-egos)
 
 
 ## #1: Make sure it is a business.
