@@ -302,8 +302,10 @@ sole decision-maker. The total value of each person's equity share is more
 important than the percentage each founder has.
 
 It's possible to achieve a certain decision-making pattern with non-voting
-shares in order to separate economic rights (financial value of equity) from
-voting rights.
+shares ([discussion][non-voting-common]) in order to separate economic rights
+(financial value of equity) from voting rights.
+
+[non-voting-common]: https://www.huntonak.com/images/content/3/4/v2/34138/nonvoting-common-stock.pdf
 
 Discuss equity plans with the company's legal counsel, noting that the counsel
 will be representing the interests of the new startup company and not of
