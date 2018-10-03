@@ -272,9 +272,9 @@ based on relative contribution to the startup, but:
 * it is even harder to agree on relative contribution
 * relative contribution changes over time
 
-Founders dilute equally, and it's important to identify the split and expect to
-stick to it. It's possible to shift relative equity later with option grants,
-but do not count on this.
+**Founders dilute equally, and it's important to identify the split and expect
+to stick to it.** It's possible to shift relative equity later with option
+grants, but do not count on this.
 
 In particular, it's useful to have non-equal splits to avoid requiring a
 tie-breaker. In the case of two founders working to build a prototype:
@@ -286,7 +286,7 @@ tie-breaker. In the case of two founders working to build a prototype:
 Founder A will have majority until the company adds investors, which will
 dilute all of the above common stock shareholders. At this point, the company
 with either need agreement of the founders or agreement of one founder with
-investors in order to have a majority decision. Accordingly, you may want to
+investors in order to have a majority decision. Alternatively, you may want to
 project the fully diluted cap table after seed investment to be:
 
 * 51% -- Founder A
