@@ -304,8 +304,12 @@ important than the percentage each founder has.
 
 Regarding the diluted-with-investment 51%/29% split, it's a reasonable proposal
 when you have one person who has a clear vision, has done startups before, and
-is going to go full-time. This goes counter to popular advice that "everyone
-gets equal equity" which assumes/encourages that all founders go all in.
+is going to go full-time. The other person in this case could be someone who is
+critical in co-developing the product/service, perhaps as a savvy
+first-customer type who will provide product management part-time while
+continuing to operate another business. This goes counter to popular advice
+that "everyone gets equal equity" which assumes/encourages that all founders go
+all in, but there's no "one way" to split equity.
 
 It's possible to achieve a certain decision-making pattern with non-voting
 shares ([discussion][non-voting-common]) in order to separate economic rights
