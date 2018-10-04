@@ -272,9 +272,9 @@ based on relative contribution to the startup, but:
 * it is even harder to agree on relative contribution
 * relative contribution changes over time
 
-**Founders dilute equally, and it's important to identify the split and expect
-to stick to it.** It's possible to shift relative equity later with option
-grants, but do not count on this.
+**Founders dilute equally, and it's important to identify the split up front,
+plan for dilution, and stick to it.** It's possible to shift relative equity
+later with option grants, but do not count on this.
 
 In particular, it's useful to have non-equal splits to avoid requiring a
 tie-breaker. In the case of two founders working to build a prototype:
@@ -284,10 +284,11 @@ tie-breaker. In the case of two founders working to build a prototype:
 * 5% -- Option Pool (to distribute to other contributors)
 
 Founder A will have majority until the company adds investors, which will
-dilute all of the above common stock shareholders. At this point, the company
+dilute all of the above common stock shareholders. Once diluted, the company
 with either need agreement of the founders or agreement of one founder with
-investors in order to have a majority decision. Alternatively, you may want to
-project the fully diluted cap table after seed investment to be:
+investors in order to have a majority decision. Alternatively, to have a sole
+decision maker, you may want to project the fully diluted cap table after seed
+investment to be:
 
 * 51% -- Founder A
 * 29% -- Founder B
@@ -301,6 +302,11 @@ rapidly increase its valuation--if _Founder A_ can execute on a vision as the
 sole decision-maker. The total value of each person's equity share is more
 important than the percentage each founder has.
 
+Regarding the diluted-with-investment 51%/29% split, it's a reasonable proposal
+when you have one person who has a clear vision, has done startups before, and
+is going to go full-time. This goes counter to popular advice that "everyone
+gets equal equity" which assumes/encourages that all founders go all in.
+
 It's possible to achieve a certain decision-making pattern with non-voting
 shares ([discussion][non-voting-common]) in order to separate economic rights
 (financial value of equity) from voting rights.
@@ -312,6 +318,9 @@ will be representing the interests of the new startup company and not of
 individuals, though may bias to whomever the CEO is by extension of
 representing the company's interests. You have legal counsel for your new
 startup company, right?
+
+To reiterate, founders dilute equally, and it's important to identify the split
+up front, plan for dilution, and stick to it.
 
 There's no right answer on how to split equity. No matter how decisions are
 made, consensus and buy-in are critical. Trust is paramount.
