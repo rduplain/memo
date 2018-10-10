@@ -63,9 +63,12 @@ a majority of a niche market, respectively.
 
 Your work will soon be to validate these assertions, but if you cannot step
 through this simple test, then you don't have a potential product-market fit
-and _you do not have a business_. You may have reasons to continue without a
-business model anyway. I recommend making it a habit to apply this simple test
-as you explore business models.
+and _you do not have a business_. Keep iterating, and make it a habit to apply
+this simple test as you explore business models.
+
+You may have reasons to continue without a business model anyway. Setting the
+cocktail-napkin test aside means that you cannot predict when you'll have any
+revenue (and you are making it a point to have revenue eventually, right?).
 
 People spend weeks, months, and even years on a business model which would fail
 this simple test.
