@@ -335,10 +335,27 @@ made, consensus and buy-in are critical. Trust is paramount.
 
 ## #7: A perspective on medical startups.
 
-For medical startups, namely those with a consumer audience, I have found that
-it is very important to focus on a clinically valid approach before being
+Innovating in healthcare in the United States is _complicated_. A full,
+separate discussion could unpack the various reasons _why_, but within the
+scope of this discussion:
+
+1. It's not enough to provide great user experience, your product needs to be
+   clinically relevant.
+2. The people who need your product the most are typically not the decision
+   maker and therefore not your customer.
+
+Accordingly, your product needs to be sensitive to the many layers of how
+health care is delivered, and your business model needs to account for who is
+making the decision to buy a new product. Often this decision is once or twice
+removed by an enterprise health system or an insurance carrier (or "payer" in
+the broader sense).
+
+For medical startups focused on a health condition, either directly or
+indirectly, I have found that it is very important to focus on a clinically
+valid approach with a wellness/disease management context before being
 concerned with commercialization. Get some preliminary data _at least_ if not a
-full trial.
+full clinical trial. Make sure you build something from a clinical basis, not a
+technology basis.
 
 This makes fundraising particularly complicated in the early stage. That said,
 health systems often invest in addition to being a customer. Selling to a
