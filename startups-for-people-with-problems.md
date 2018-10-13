@@ -288,7 +288,7 @@ tie-breaker. In the case of two founders working to build a prototype:
 
 Founder A will have majority until the company adds investors, which will
 dilute all of the above common stock shareholders. Once diluted, the company
-with either need agreement of the founders or agreement of one founder with
+will either need agreement of the founders or agreement of one founder with
 investors in order to have a majority decision. Alternatively, to have a sole
 decision maker, you may want to project the fully diluted cap table after seed
 investment to be:
