@@ -68,10 +68,14 @@ this simple test as you explore business models.
 
 You may have reasons to continue without a business model anyway. Setting the
 cocktail-napkin test aside means that you cannot predict when you'll have any
-revenue (and you are making it a point to have revenue eventually, right?).
+revenue (and you are making it a point to have revenue eventually, right?). In
+particular, if you are looking to make an exit through acquisition, note: (a)
+prospective acquirers will want to see that the product adds value, (b) revenue
+is a clear measure of that value, and (c) being in a cash-poor position weakens
+negotiation ability, such that an acquirer can wait it out for a better price.
 
 People spend weeks, months, and even years on a business model which would fail
-this simple test.
+this simple cocktail-napkin test.
 
 
 ## #2: Make sure it is a business that you want to run.
