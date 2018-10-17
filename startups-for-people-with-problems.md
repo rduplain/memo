@@ -333,6 +333,12 @@ startup company, right?
 To reiterate, founders dilute equally, and it's important to identify the split
 up front, plan for dilution, and stick to it.
 
+As for how to split the option pool, predict how many employees, contributors,
+and advisers you would like to have and keep some additional options in
+reserve. The 5% number in the examples above indicates a base amount to include
+in the seed round for the option pool, before investment. Every round of new
+investment in the future will present a chance to introduce new options.
+
 There's no right answer on how to split equity. No matter how decisions are
 made, consensus and buy-in are critical. Trust is paramount.
 
