@@ -9,7 +9,7 @@ by **Ron DuPlain**
 
 When you have a problem, a real problem affecting real people, and you cannot
 shake off your ideas on how to solve it, you'll eventually come across the
-notion that maybe you should start a new company. You'll certainly find
+notion that maybe you should start a new company. You'll certainly find guiding
 resources if you identify as an entrepreneur. If, like me, you are more focused
 on solving problems than creating companies, you'll perhaps wonder where to
 begin.
@@ -72,7 +72,8 @@ revenue (and you are making it a point to have revenue eventually, right?). In
 particular, if you are looking to make an exit through acquisition, note: (a)
 prospective acquirers will want to see that the product adds value, (b) revenue
 is a clear measure of that value, and (c) being in a cash-poor position weakens
-negotiation ability, such that an acquirer can wait it out for a better price.
+negotiation ability, such that an acquirer can wait it out for a better price
+while you run out of money.
 
 People spend weeks, months, and even years on a business model which would fail
 this simple cocktail-napkin test.
@@ -82,7 +83,7 @@ this simple cocktail-napkin test.
 
 Very often, people are excited about ideas. What if we had this? What if we
 could do that? Make sure the idea driving your startup is a business that you
-actually want to run, because you are going to be the one running it.
+actually want to run, because _you are going to be the one running it_.
 
 Keep exploring business models until you have a business that you want to run.
 
@@ -146,7 +147,7 @@ products and services to a customer.
 (Note that when you do take on debt instruments, creditors will look to
 founders to personally guarantee the funds, making you liable for the cash in
 the event of default, i.e. when the new startup company misses a payment
-due. Treat credit cards like your own cash.)
+due. Treat lines of credit and credit cards like your own cash.)
 
 With every new investment, founders dilute. As do any other shareholders:
 common stock holders (anyone receiving equity as part of compensation, founders
@@ -195,16 +196,17 @@ A few words about institutional investors, noting that I am speaking from the
 founder's perspective and not the investor's:
 
 * Investors are generally interested in financial projections which have
-  oversized returns, meaning that the projection has exponential
-  growth. Conversely, small businesses or long-running companies will focus on
-  year-over-year growth, which is approximately linear or compounded growth
-  rates. Imagine a slide deck with a hockey stick projecting valuation,
-  typically revenue. Even if it is made up, many investors want to see that you
-  will go after it regardless.
+  oversized returns, meaning that the projection has exponential growth. This
+  exponential growth, to me, defines a startup. Conversely, small businesses or
+  long-running companies will focus on year-over-year growth, which is
+  approximately linear or compounded growth rates. For a startup, imagine a
+  slide deck with a hockey stick projecting valuation, typically based on
+  revenue. Even if it is made up, many investors want to see that you will go
+  after it regardless.
 * Very often a startup has more than one investor in a round. The first
   investor to commit will shape the terms for other investors.
-* Raising money often means talking to 10 prospective investors for every 1
-  investor.
+* Like any sales process, raising money often means talking to 10 prospective
+  investors for every 1 investor.
 * Several VCs will say, "Sounds great! Come back when you need [some number in
   the millions]."
 * They may also say something which indicates to you, "Oh, and come to us
@@ -261,8 +263,8 @@ including cofounders, no matter how well you trust them.
 
 ## #6: Splitting equity.
 
-How do you split equity among founders? Engage in respectful discussion until
-you have consensus.
+How do you split equity among founders? **Engage in respectful discussion until
+you have consensus.**
 
 A good starting point is to consider all founders as equal contributors:
 
@@ -292,10 +294,10 @@ tie-breaker. In the case of two founders working to build a prototype:
 
 Founder A will have majority until the company adds investors, which will
 dilute all of the above common stock shareholders. Once diluted, the company
-will either need agreement of the founders or agreement of one founder with
-investors in order to have a majority decision. Alternatively, to have a sole
-decision maker, you may want to project the fully diluted cap table after seed
-investment to be:
+will either need agreement of the founders or agreement between one founder and
+the investors in order to have a majority decision. Alternatively, to have a
+sole decision maker, you may want to project the fully diluted cap table after
+seed investment to be:
 
 * 51% -- Founder A
 * 29% -- Founder B
@@ -309,6 +311,14 @@ rapidly increase its valuation--if _Founder A_ can execute on a vision as the
 sole decision-maker. The total value of each person's equity share is more
 important than the percentage each founder has.
 
+Speaking more broadly of collaboration, consensus and alignment are important
+to just about any organization's culture. But they take time and there is a
+trade-off between giving everybody equal input and empowering an architect to
+carefully design the business and its vision, model, and product/service. At
+the very least, regardless of whether you have a majority decision-maker, be
+sure to provide every member of the team (including shareholders) an
+opportunity to contribute to the direction of the business.
+
 Regarding the diluted-with-investment 51%/29% split, it's a reasonable proposal
 when you have one person who has a clear vision, has done startups before, and
 is going to go full-time. The other person in this case could be someone who is
@@ -316,7 +326,7 @@ critical in co-developing the product/service, perhaps as a savvy
 first-customer type who will provide product management part-time while
 continuing to operate another business. This goes counter to popular advice
 that "everyone gets equal equity" which assumes/encourages that all founders go
-all in, but there's no "one way" to split equity.
+all in. There's no "one way" to split equity.
 
 It's possible to achieve a certain decision-making pattern with non-voting
 shares ([discussion][non-voting-common]) in order to separate economic rights
@@ -355,7 +365,7 @@ scope of this discussion:
    maker and therefore not your customer.
 
 Accordingly, your product needs to be sensitive to the many layers of how
-health care is delivered, and your business model needs to account for who is
+healthcare is delivered, and your business model needs to account for who is
 making the decision to buy a new product. Often this decision is once or twice
 removed by an enterprise health system or an insurance carrier (or "payer" in
 the broader sense).
@@ -369,7 +379,7 @@ technology basis.
 
 This makes fundraising particularly complicated in the early stage. That said,
 health systems often invest in addition to being a customer. Selling to a
-hospital takes 18 months +/-, but sophisticated management on a long-enough
+hospital takes 18 months +/-. Sophisticated management on a long-enough
 timescale will recognize that the organization internally has too much
 hierarchy and is too risk-averse to innovate. They _need_ to look externally to
 innovate.
