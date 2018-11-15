@@ -388,7 +388,8 @@ But Silicon Valley, and I do mean the region not the _HBO_ show, brings
 "disruption" without even a clue that _clinically valid_ is a thing. The
 quality improvement loop--dissemination & implementation of the latest evidence
 into the care setting--may be severely challenged in US healthcare, but it's
-nonexistent to the "app developer."
+nonexistent to the "app developer." Accordingly, "app" has become a four-letter
+word in healthcare.
 
 If you have a medical startup and you are raising capital, know the word
 "[theranos][theranos]" before anyone else mentions it.
