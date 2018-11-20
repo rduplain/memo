@@ -78,6 +78,10 @@ while you run out of money.
 People spend weeks, months, and even years on a business model which would fail
 this simple cocktail-napkin test.
 
+(Why 10%? It's a simple number to characterize your intended market. Note that
+products intending to _cross the chasm_ to mainstream usage will take more than
+10% adoption.)
+
 
 ## #2: Make sure it is a business that you want to run.
 
