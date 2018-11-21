@@ -36,6 +36,12 @@ your brain" to specific questions in context.
 - [#1: Make sure it is a business.](#1-make-sure-it-is-a-business)
 - [#2: Make sure it is a business that you want to run.](#2-make-sure-it-is-a-business-that-you-want-to-run)
 - [#3: All about capital.](#3-all-about-capital)
+  + [#3.1: The path ahead.](#31-the-path-ahead)
+  + [#3.2: Getting started without a valuation.](#32-getting-started-without-a-valuation)
+  + [#3.3: Dilution.](#33-dilution)
+  + [#3.4: Rounds of fundraising.](#34-rounds-of-fundraising)
+  + [#3.5: Institutional investors.](#35-institutional-investors)
+  + [#3.6: Millionaire.](#36-millionaire)
 - [#4: Keep the cap table clean.](#4-keep-the-cap-table-clean)
 - [#5: Vest.](#5-vest)
 - [#6: Splitting equity.](#6-splitting-equity)
@@ -96,6 +102,8 @@ Find a cofounder as needed.
 
 ## #3: All about capital.
 
+### #3.1: The path ahead.
+
 The path of raising funds ("capital") is one of building wealth.
 
 Identify a product/service of value, make a plan to deliver, make a projection
@@ -122,6 +130,9 @@ Short of getting an acquisition offer before you even start--as is fiction in
 _Silicon Valley_--valuation at this stage is going to be more about projections
 than fundamentals. You are starting entirely with intangible value, unless you
 are licensing/transferring existing intellectual property.
+
+
+### #3.2: Getting started without a valuation.
 
 Your valuation is low or impossible to predict when are you getting
 started. You will uncover many solutions to this very problem. [SAFE
@@ -153,6 +164,9 @@ founders to personally guarantee the funds, making you liable for the cash in
 the event of default, i.e. when the new startup company misses a payment
 due. Treat lines of credit and credit cards like your own cash.)
 
+
+### #3.3: Dilution.
+
 With every new investment, founders dilute. As do any other shareholders:
 common stock holders (anyone receiving equity as part of compensation, founders
 included) and previous investors. This means that if you are 100% owner, or if
@@ -171,6 +185,9 @@ when you have the moment of:**
 
 > **Ah, so that's the "capital" in capitalism!**
 > **All these years, "capital" hiding in plain sight.**
+
+
+### #3.4: Rounds of fundraising.
 
 Funding happens in rounds, commonly: seed (sometimes called "angel"), A, B, C,
 .... At every round of funding, there is a balancing act to raise the right
@@ -191,6 +208,9 @@ so. Tell them that they will lose their money and see if they still want to do
 it. Turns out, they will. Their goal is to support you, not a return on
 investment. Note that the [SEC has an opinion about who can
 invest](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
+
+
+### #3.5: Institutional investors.
 
 Back to professional investors, they generally seek preferred stock. These come
 with specific terms, but in short: they get paid before you do should the
@@ -217,6 +237,9 @@ founder's perspective and not the investor's:
   before talking with other investors." Then, you really know that they are
   interested, because they think they have a headstart to you on knowing the
   value of your company.
+
+
+### #3.6: Millionaire.
 
 One final note on raising capital. In doing so, you are instantly a
 millionaire. Of course, not really. You hold stock in a company for which there
