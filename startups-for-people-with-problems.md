@@ -212,7 +212,7 @@ invest](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
 
 ### #3.5: Institutional investors.
 
-Back to professional investors, they generally seek preferred stock. These come
+Back to institutional investors, they generally seek preferred stock. These come
 with specific terms, but in short: they get paid before you do should the
 company ever change hands or dissolve.
 
