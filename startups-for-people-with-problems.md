@@ -113,7 +113,7 @@ company makes an "exit."
 The path of raising funds ("capital") is one of building wealth.
 
 Identify a product/service of value, make a plan to deliver, make a projection
-of the market and respective share, and put these together to claim a
+of the market and share of customers, and put these together to claim a
 valuation.
 
 For example, raise $1M by selling 20% (fully diluted) equity in a company that
