@@ -124,8 +124,9 @@ point, it's mostly about being convinced that the revenue potential is there.
 (See #1: _Make sure it is a business_.) A company's value can be a multiple of
 its revenue, or not tied on revenue at all, based on how readily the company
 could reinvest its profits, enter new markets, or be acquired. Acquisition
-would mean selling majority or full ownership of the company to another
-company, or merging with one.
+would mean selling majority or full ownership of the company to another company
+(in exchange for cash, stock in the acquiring company, or both), or merging
+with one.
 
 The very first episode of _HBO's Silicon Valley_ has an incredible moment right
 up front in which the founder is considering whether to sell the company or
