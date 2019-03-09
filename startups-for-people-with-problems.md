@@ -99,6 +99,12 @@ Keep exploring business models until you have a business that you want to run.
 
 Find a cofounder as needed.
 
+Even if you are wildly successful, [you can expect to be in the business for
+seven-plus years][unicorn], and you might still run the business after the
+company makes an "exit."
+
+[unicorn]: https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/
+
 
 ## #3: All about capital.
 
