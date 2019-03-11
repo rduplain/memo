@@ -92,8 +92,12 @@ products intending to _cross the chasm_ to mainstream usage will take more than
 ## #2: Make sure it is a business that you want to run.
 
 Very often, people are excited about ideas. What if we had this? What if we
-could do that? Make sure the idea driving your startup is a business that you
-actually want to run, because _you are going to be the one running it_.
+could do that? The world would be a better place if your idea were reality,
+after all, so you might think that there are people or companies who are just
+waiting to hear it so that you can hand it off and they will run the business
+for you. If you are serious about an idea and want to create a startup, make
+sure that startup is a business that you actually want to run, because _you are
+going to be the one running it_.
 
 Keep exploring business models until you have a business that you want to run.
 
@@ -104,6 +108,8 @@ seven-plus years][unicorn], and you might still run the business after the
 company makes an "exit."
 
 [unicorn]: https://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/
+
+Plan to be in your startup for years.
 
 
 ## #3: All about capital.
