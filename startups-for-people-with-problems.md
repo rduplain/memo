@@ -149,9 +149,10 @@ are licensing/transferring existing intellectual property.
 
 Your valuation is low or impossible to predict when are you getting
 started. You will uncover many solutions to this very problem. [SAFE
-notes][safe-notes] are popular, even with their
-[own problems][safe-note-problems]. The idea is to defer a more firm valuation
-until a later date.
+notes][safe-notes] are one such solution, even with their [own
+problems][safe-note-problems]. The idea is to defer a more firm valuation until
+a later date. More broadly, a convertible note allows a founding team to
+"borrow" money with intent to convert the debt into equity at a future round.
 
 [safe-notes]: https://www.ycombinator.com/documents/
 [safe-note-problems]: https://techcrunch.com/2017/07/08/why-safe-notes-are-not-safe-for-entrepreneurs/
@@ -161,10 +162,10 @@ means a "note payable" at a maturity date, with some percentage of return. For
 example, borrow $100k and repay $112k a year later, using 12% of simple
 interest maturing annually. In general, investors will want to convert the note
 into equity over time, reinvesting the return instead of remitting payment,
-which ultimately arrives at note instruments for future equity, i.e. SAFE notes
-as mentioned above. Besides, a 12% rate of return is better invested in lower
-risk ventures, and startups are best optimized toward the highest valuation
-with the least amount of cash.
+which ultimately arrives at note instruments for future equity,
+i.e. convertible notes as mentioned above. Besides, a 12% rate of return is
+better invested in lower risk ventures, and startups are best optimized toward
+the highest valuation with the least amount of cash.
 
 There are also financial instruments which provide a same-as-cash line of
 credit from a conventional bank, but the psychology of startup finance is to
