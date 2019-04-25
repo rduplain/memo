@@ -40,8 +40,9 @@ your brain" to specific questions in context.
   + [#3.2: Getting started without a valuation.](#32-getting-started-without-a-valuation)
   + [#3.3: Dilution.](#33-dilution)
   + [#3.4: Rounds of fundraising.](#34-rounds-of-fundraising)
-  + [#3.5: Institutional investors.](#35-institutional-investors)
-  + [#3.6: Millionaire.](#36-millionaire)
+  + [#3.5: Think about the down round.](#35-think-about-the-down-round)
+  + [#3.6: Institutional investors.](#36-institutional-investors)
+  + [#3.7: Millionaire.](#37-millionaire)
 - [#4: Keep the cap table clean.](#4-keep-the-cap-table-clean)
 - [#5: Vest.](#5-vest)
 - [#6: Splitting equity.](#6-splitting-equity)
@@ -210,8 +211,8 @@ responsibility to shareholders to maximize the value of existing shares. In a
 few words, take a good deal (and make revenue a top priority). But with an
 acceptable level of risk. If you do not raise enough money (the runway), then
 the company could go out of business or be in a vulnerable position for future
-investment, leading to a down round in which shares are purchased a value lower
-than the previous round--which is _not good_.
+investment, leading to a down round in which shares are purchased at a value
+lower than the previous round--which is _not good_ (see #3.5 below).
 
 The seed round is often called the angel round, because the amounts (10s or
 100s of thousands) are more appropriate to individuals of high net worth
@@ -224,7 +225,25 @@ investment. Note that the [SEC has an opinion about who can
 invest](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
 
 
-### #3.5: Institutional investors.
+### #3.5: Think about the down round.
+
+Imagine how great it will be when you close on millions of dollars. No one can
+question whether your ideas are valid. You can pay yourself a proper salary.
+You can now hire for all of the things that you are now too busy to do as an
+accomplished startup CEO. You've arrived.
+
+No, you haven't. Raising money is not the end goal.
+
+There's such a thing as too much money. Follow-on rounds are going to depend on
+a business which increases in value. Generally, this means revenue. While
+getting _any_ investment is your immediate concern, think about the down-round
+scenario--shares are purchased at a value lower than the previous round--and
+work to avoid it. Progressively show value through multiple rounds (potentially
+multiple seed or convertible debt rounds) instead of taking a large sum of
+money up front.
+
+
+### #3.6: Institutional investors.
 
 Back to institutional investors, they generally seek preferred stock. These come
 with specific terms, but in short: they get paid before you do should the
@@ -253,7 +272,7 @@ founder's perspective and not the investor's:
   value of your company.
 
 
-### #3.6: Millionaire.
+### #3.7: Millionaire.
 
 One final note on raising capital. In doing so, you are instantly a
 millionaire. Of course, not really. You hold stock in a company for which there
