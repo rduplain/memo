@@ -237,8 +237,8 @@ No, you haven't. Raising money is not the end goal.
 There's such a thing as too much money. Follow-on rounds are going to depend on
 a business which increases in value. Generally, this means revenue. Not just
 revenue, but [**multiples** of revenue growth][t2d3]. While getting _any_
-investment is your immediate concern, think about the down-round
-scenario--shares are purchased at a value lower than the previous round--and
+investment is your immediate concern, think about the down-round scenario--the
+case where shares are purchased at a value lower than the previous round--and
 work to avoid it. Progressively show value through multiple rounds (potentially
 multiple seed or convertible debt rounds) instead of taking a large sum of
 money up front.
