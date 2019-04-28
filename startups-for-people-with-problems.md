@@ -71,9 +71,9 @@ valid at this point when the market is big or you believe that you can capture
 a majority of a niche market, respectively.
 
 Your work will soon be to validate these assertions, but if you cannot step
-through this simple test, then you don't have a potential product-market fit
-and _you do not have a business_. Keep iterating, and make it a habit to apply
-this simple test as you explore business models.
+through this simple test with meaningful results, then you don't have a
+potential product-market fit and _you do not have a business_. Keep iterating,
+and make it a habit to apply this simple test as you explore business models.
 
 You may have reasons to continue without a business model anyway. Setting the
 cocktail-napkin test aside means that you cannot predict when you'll have any
@@ -304,8 +304,8 @@ have a lot of equity and (b) you want them to have an incentive in your
 success.
 
 Be slow in giving out equity _at this point_. Building a successful business is
-a long game. A contribution will feel like a lot today, but could be a small
-blip in the long run.
+a long game. A contribution will feel like a lot today, but will likely be a
+small blip in the long run.
 
 It's not selfish to keep equity to yourself. It's what's best for the
 company. You run a company now.
@@ -444,10 +444,10 @@ technology basis.
 
 This makes fundraising particularly complicated in the early stage. That said,
 health systems often invest in addition to being a customer. Selling to a
-hospital takes 18 months +/-. Sophisticated management on a long-enough
-timescale will recognize that the organization internally has too much
-hierarchy and is too risk-averse to innovate. They _need_ to look externally to
-innovate.
+hospital takes 18 months +/-. Within a large enterprise, on a long-enough
+timescale, sophisticated management will recognize that the organization
+internally has too much hierarchy and is too risk-averse to innovate. They
+_need_ to look externally to innovate.
 
 But Silicon Valley, and I do mean the region not the _HBO_ show, brings
 "disruption" without even a clue that _clinically valid_ is a thing. The
