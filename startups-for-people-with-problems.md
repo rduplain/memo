@@ -27,8 +27,10 @@ founder perspective.
 I am an engineer first and foremost. I have been involved in entrepreneurial
 projects for my entire engineering career. Being a programmer and C-Suite
 executive who has "done it before," I often get the open-ended request to "pick
-your brain" about startups. This essay can serve as an accelerator from "pick
-your brain" to specific questions in context.
+your brain" about startups. Ask around, and you'll find that this isn't the
+best way to ask for a meeting (with anyone). This essay can serve as an
+accelerator from "pick your brain" to specific questions in context. Feel free
+to ask questions.
 
 
 ## Table of Contents
