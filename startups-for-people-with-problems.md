@@ -245,6 +245,9 @@ work to avoid it. Progressively show value through multiple rounds (potentially
 multiple seed or convertible debt rounds) instead of taking a large sum of
 money up front.
 
+Alternatively, bootstrap a product/service by building it nights and weekends,
+and skip the first seed round.
+
 [t2d3]: https://www.battery.com/powered/helping-entrepreneurs-triple-triple-double-double-double-to-a-billion-dollar-company/
 
 
