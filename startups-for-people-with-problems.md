@@ -485,7 +485,8 @@ assume that it probably is (because it probably is).
 
 Cynical, yes. The slightly less cynical justification: in every profession, the
 best and brightest in the field will tell you that anywhere from 10-30% of
-people in the field actually know what they are doing. Business is no
+people in the field actually know what they are doing. More broadly, this is
+the 80/20 principle, which applies to just about anything. Business is no
 exception.
 
 Regarding investors, there's smart money and dumb. Investors get good at asking
