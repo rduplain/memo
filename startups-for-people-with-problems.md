@@ -216,14 +216,15 @@ numbers are made-up), a company might raise $5M for Series A, $16M for Series
 B, and $40M for Series C. Fundraising is about growth. The purpose of capital
 is _not_ to sustain a company with cash, but to scale with each round.
 
-At every round of funding, there is a balancing act to raise the right
-amount of capital. You want to balance valuation with runway. The CEO has a
-responsibility to shareholders to maximize the value of existing shares. In a
-few words, take a good deal (and make revenue a top priority). But with an
-acceptable level of risk. If you do not raise enough money (the runway), then
-the company could go out of business or be in a vulnerable position for future
-investment, leading to a down round in which shares are purchased at a value
-lower than the previous round--which is _not good_ (see #3.5 below).
+At each round of funding, the company must demonstrate value and balance how
+much equity is sold to investors (lower is better) with how much cash is
+available (higher is generally better). The amount of cash available to operate
+at current expenditure provides a runway of some number of months/years to
+continue developing the business and increasing its value. If you do not raise
+enough money (the runway), then the company could go out of business or be in a
+vulnerable position for future investment, leading to a down round in which
+shares are purchased at a value lower than the previous round--which is _not
+good_ (see #3.5 below).
 
 The seed round is often called the angel round, because the amounts (10s or
 100s of thousands) are more appropriate to individuals of high net worth
