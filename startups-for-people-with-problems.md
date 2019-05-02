@@ -207,7 +207,16 @@ when you have the moment of:**
 ### #3.4: Rounds of fundraising.
 
 Funding happens in rounds, commonly: seed (sometimes called "angel"), A, B, C,
-.... At every round of funding, there is a balancing act to raise the right
+....
+
+Why A, B, C, ...? On their own, these letter names are just counting the
+rounds: Series A is the first round, Series B is the second, and so on. In
+practice, each round raises a multiple of the previous. For example (and these
+numbers are made-up), a company might raise $5M for Series A, $16M for Series
+B, and $40M for Series C. Fundraising is about growth. The purpose of capital
+is _not_ to sustain a company with cash, but to scale with each round.
+
+At every round of funding, there is a balancing act to raise the right
 amount of capital. You want to balance valuation with runway. The CEO has a
 responsibility to shareholders to maximize the value of existing shares. In a
 few words, take a good deal (and make revenue a top priority). But with an
