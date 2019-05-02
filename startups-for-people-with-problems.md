@@ -214,7 +214,10 @@ rounds: Series A is the first round, Series B is the second, and so on. In
 practice, each round raises a multiple of the previous. For example (and these
 numbers are made-up), a company might raise $5M for Series A, $16M for Series
 B, and $40M for Series C. Fundraising is about growth. The purpose of capital
-is _not_ to sustain a company with cash, but to scale with each round.
+is _not_ to sustain a company with cash, but to scale with each round. (Read
+more [here][a-b-c].)
+
+[a-b-c]: https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
 
 At each round of funding, the company must demonstrate value and balance how
 much equity is sold to investors (lower is generally better) with how much cash
