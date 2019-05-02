@@ -217,11 +217,11 @@ B, and $40M for Series C. Fundraising is about growth. The purpose of capital
 is _not_ to sustain a company with cash, but to scale with each round.
 
 At each round of funding, the company must demonstrate value and balance how
-much equity is sold to investors (lower is better) with how much cash is
-available (higher is generally better). The amount of cash available to operate
-at current expenditure provides a runway of some number of months/years to
-continue developing the business and increasing its value. If you do not raise
-enough money (the runway), then the company could go out of business or be in a
+much equity is sold to investors (lower is generally better) with how much cash
+is available (higher is generally better). The amount of cash available to
+operate at current expenditure provides a runway of months/years to continue
+developing the business and increasing its value. If you do not raise enough
+money (the runway), then the company could go out of business or be in a
 vulnerable position for future investment, leading to a down round in which
 shares are purchased at a value lower than the previous round--which is _not
 good_ (see #3.5 below).
