@@ -229,6 +229,9 @@ vulnerable position for future investment, leading to a down round in which
 shares are purchased at a value lower than the previous round--which is _not
 good_ (see #3.5 below).
 
+In that respect, the CEO is always fundraising. Raise just enough (but not too
+much) money to get to the next round.
+
 The seed round is often called the angel round, because the amounts (10s or
 100s of thousands) are more appropriate to individuals of high net worth
 ("angels") than to institutional firms ("VCs").
