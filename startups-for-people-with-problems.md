@@ -5,6 +5,20 @@ _The Moment You Consider Raising Funds_
 by **Ron DuPlain**
 
 
+## Summary
+
+If you are serious about raising funds:
+
+* Make sure it is a business, and one that you want to run (for years).
+* Plan for multiple rounds of funding, with more capital over time.
+* Be slow in giving out equity _at this point_.
+* When people get equity for their contributions, have it vest over time.
+* Split up equity among cofounders before adding investors; plan for dilution.
+* For medical startups, focus on clinical validation before commercialization.
+* Expect a roller coaster.
+* Expect to meet people with big egos (and plan to set that ego aside).
+
+
 ## Purpose
 
 When you have a problem, a real problem affecting real people, and you cannot
