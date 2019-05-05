@@ -354,9 +354,9 @@ anyway.
 
 ## #5: Vest.
 
-When you give people equity in the form of common stock, have it vest over time
+When granting equity to others for their contributions, have it vest over time
 instead of having them hold the equity immediately. This is true for everyone,
-including cofounders, no matter how well you trust them.
+including cofounders, irregardless of how well you trust them.
 
 
 ## #6: Splitting equity.
