@@ -358,6 +358,24 @@ When granting equity to others for their contributions, have it vest over time
 instead of having them hold the equity immediately. This is true for everyone,
 including cofounders, irregardless of how well you trust them.
 
+A simple vesting schedule will split a contributor's equity up into equal
+increments across three or four years.
+
+But vesting could structure for retention. A vesting schedule at a big tech
+company may look something like:
+
+* 5% of the equity grant after the first year
+* 15% after the second year (for 20% total)
+* 40% after the third year (for 60% total)
+* 40% after the fourth year (for 100% total, of the original equity grant)
+
+Add additional equity/option grants at any time, on a similar vesting
+schedule. In that sense, a contributor could have multiple concurrent vesting
+schedules resulting from multiple equity/option grants.
+
+Once fully vested, it is generally in the best interest of the company to grant
+additional equity to keep a contributor focused and motivated.
+
 
 ## #6: Splitting equity.
 
