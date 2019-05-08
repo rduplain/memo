@@ -131,6 +131,9 @@ Plan to be in your startup for years.
 
 ## #3: All about capital.
 
+_Plan for multiple rounds of funding, with more capital over time._
+
+
 ### #3.1: The path ahead.
 
 The path of raising funds ("capital") is one of building wealth.
@@ -321,6 +324,8 @@ precisely their relationship to money and to risk.
 
 ## #4: Keep the cap table clean.
 
+_Be slow in giving out equity at this point._
+
 For context, consider the "serial entrepreneur":
 
 1. Sets out to offer a product or service.
@@ -354,6 +359,8 @@ anyway.
 
 ## #5: Vest.
 
+_When people get equity for their contributions, have it vest over time._
+
 When granting equity to others for their contributions, have it vest over time
 instead of having them hold the equity immediately. This is true for everyone,
 including cofounders, irregardless of how well you trust them.
@@ -378,6 +385,8 @@ additional equity to keep a contributor focused and motivated.
 
 
 ## #6: Splitting equity.
+
+_Split up equity among cofounders before adding investors; plan for dilution._
 
 How do you split equity among founders? **Engage in respectful discussion until
 you have consensus.**
@@ -471,6 +480,8 @@ made, consensus and buy-in are critical. Trust is paramount.
 
 ## #7: A perspective on medical startups.
 
+_For medical startups, focus on clinical validation before commercialization._
+
 Innovating in healthcare in the United States is _complicated_. A full,
 separate discussion could unpack the various reasons _why_, but within the
 scope of this discussion:
@@ -515,6 +526,8 @@ If you have a medical startup and you are raising capital, know the word
 
 ## #8: Roller coasters.
 
+_Expect a roller coaster._
+
 A startup is an emotional roller coaster until you are convinced that the
 company/product/service that you are building is valid. Who knows when that
 will happen. So, take the validation that you can and find your support
@@ -528,6 +541,8 @@ coaster. "What's the problem today?"
 
 ... and they will be so charismatic they will naturally feign a sense of
 humility.
+
+_Expect to meet people with big egos (and plan to set that ego aside)._
 
 There is an abundance of people who have made a career out of all things
 business. You will think they have some credential that you do not. You will
