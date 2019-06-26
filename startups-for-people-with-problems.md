@@ -19,6 +19,21 @@ If you are serious about raising funds:
 * Expect to meet people with big egos (and plan to set that ego aside).
 
 
+## Preface
+
+_We suddenly find ourselves talking with a VC this coming Friday._ Having
+received a rather serious inquiry about what to expect in seeking investment, I
+opened my `$EDITOR` and started typing. After a short time, I had five pages of
+exposition and hit reply. I expanded on several topics since, but the original
+discourse remains.
+
+Certainly, venture capital is not the only way to start a business.
+Importantly, this essay covers the "conventional" path in scaling a startup,
+through multiples of growth supported by rounds of fundraising, to establish a
+baseline which can inform a now familiar plan or be deliberately set aside for
+an informed, alternative plan.
+
+
 ## Purpose
 
 When you have a problem, a real problem affecting real people, and you cannot
