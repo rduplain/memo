@@ -2,7 +2,7 @@
 
 _The Moment You Consider Raising Funds_
 
-by **Ron DuPlain**
+by **R. DuPlain**
 
 
 ## Summary
