@@ -300,9 +300,9 @@ side project and get enough customers to start discussions on a full round.
 
 ### #3.6: Institutional investors.
 
-Back to institutional investors, they generally seek preferred stock. These come
-with specific terms, but in short: they get paid before you do should the
-company ever change hands or dissolve.
+Back to institutional investors, they generally seek preferred stock. These
+come with specific terms, but in short: they get paid before you (and after
+creditors) should the company ever change hands or dissolve.
 
 A few words about institutional investors, noting that I am speaking from the
 founder's perspective and not the investor's:
