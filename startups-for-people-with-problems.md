@@ -527,12 +527,12 @@ timescale, sophisticated management will recognize that the organization
 internally has too much hierarchy and is too risk-averse to innovate. They
 _need_ to look externally to innovate.
 
-But Silicon Valley, and I do mean the region not the _HBO_ show, brings
-"disruption" without even a clue that _clinically valid_ is a thing. The
-quality improvement loop--dissemination & implementation of the latest evidence
-into the care setting--may be severely challenged in US healthcare, but it's
-nonexistent to the "app developer." Accordingly, "app" has become a four-letter
-word in healthcare.
+But Silicon Valley, and I do mean the region not the _HBO_ show, values
+"disruption" to an extent by which people may not even consider whether
+_clinically valid_ is a thing. The quality improvement loop--dissemination &
+implementation of the latest evidence into the care setting--may be severely
+challenged in US healthcare, but it's nonexistent to the "app developer."
+Accordingly, "app" has become a four-letter word in healthcare.
 
 If you have a medical startup and you are raising capital, know the word
 "[theranos][theranos]" before anyone else mentions it.
@@ -562,8 +562,9 @@ _Expect to meet people with big egos (and plan to set that ego aside)._
 
 There is an abundance of people who have made a career out of all things
 business. You will think they have some credential that you do not. You will
-eventually conclude that it is all hollow, so let's save you some time and just
-assume that it probably is (because it probably is).
+eventually conclude that no such qualification applies to all of business, so
+let's save you some time and just assume that any such projection of an
+all-encompassing qualification is just that, a projection.
 
 Cynical, yes. The slightly less cynical justification: in every profession, the
 best and brightest in the field will tell you that anywhere from 10-30% of
