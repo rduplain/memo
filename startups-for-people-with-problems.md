@@ -308,14 +308,16 @@ company ever change hands or dissolve.
 A few words about institutional investors, noting that I am speaking from the
 founder's perspective and not the investor's:
 
-* Investors are generally interested in financial projections which have
-  oversized returns, meaning that the projection has exponential growth. This
-  exponential growth, to me, defines a startup. Conversely, small businesses or
-  long-running companies will focus on year-over-year growth, which is
-  approximately linear or compounded growth rates. For a startup, imagine a
-  slide deck with a hockey stick projecting valuation, typically based on
-  revenue. Even if it is made up, many investors want to see that you will go
-  after it regardless.
+* Investors are generally interested in financial projections that have
+  oversized returns, meaning that the projection has exponential growth.
+  * This exponential growth, to me, defines a startup. Conversely, small
+    businesses or long-running companies will focus on year-over-year growth,
+    which has approximately linear or compounded growth rates.
+  * For a startup, imagine a slide deck with a hockey stick projecting
+    valuation, typically based on revenue. Even if the projection is based
+    largely (or entirely) on assumptions, many investors want to see that you
+    will go after it regardless. (Just make sure that you can pursue such a
+    level of growth in good faith.)
 * Very often a startup has more than one investor in a round. The first
   investor to commit will shape the terms for other investors.
 * Like any sales process, raising money often means talking to 10 prospective
