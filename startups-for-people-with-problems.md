@@ -30,8 +30,7 @@ discourse remains.
 Certainly, venture capital is not the only way to start a business.
 Importantly, this essay covers the "conventional" path in scaling a startup,
 through multiples of growth supported by rounds of fundraising, to establish a
-baseline which can inform a now familiar plan or be deliberately set aside for
-an informed, alternative plan.
+baseline approach in considering the growth of a venture.
 
 
 ## Purpose
@@ -47,7 +46,7 @@ This essay sits between "generate and validate good startup ideas" and "build
 and run an effective company." Given an idea worth pursuing, this essay
 provides an exposition for _the moment you consider raising funds_.
 
-There are many expositions on startups. This one is mine. I am speaking from a
+There are many essays on startups. This one is mine. I am speaking from a
 founder perspective.
 
 
@@ -57,9 +56,8 @@ I am an engineer first and foremost. I have been involved in entrepreneurial
 projects for my entire engineering career. Being a programmer and C-Suite
 executive who has "done it before," I often get the open-ended request to "pick
 your brain" about startups. Ask around, and you'll find that this isn't the
-best way to ask for a meeting (with anyone). This essay can serve as an
-accelerator from "pick your brain" to specific questions in context. Feel free
-to ask questions.
+best way to ask for a meeting (with anyone). Don't "pick brains." Ask
+questions in context.
 
 
 ## Table of Contents
