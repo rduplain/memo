@@ -264,8 +264,8 @@ In that respect, the CEO is always fundraising. Raise just enough (but not too
 much) money to get to the next round.
 
 The seed round is often called the angel round, because the amounts (10s or
-100s of thousands) are more appropriate to individuals of high net worth
-("angels") than to institutional firms ("VCs").
+100s of thousands of US dollars) are more appropriate to individuals of high
+net worth ("angels") than to institutional firms ("VCs").
 
 If you would like to raise money from friends and family, you can certainly do
 so. Tell them that they will lose their money and see if they still want to do
