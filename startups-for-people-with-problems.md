@@ -270,8 +270,8 @@ net worth ("angels") than to institutional firms ("VCs").
 If you would like to raise money from friends and family, you can certainly do
 so. Tell them that they will lose their money and see if they still want to do
 it. Turns out, they will. Their goal is to support you, not a return on
-investment. Note that the [SEC has an opinion about who can
-invest](https://www.investopedia.com/terms/a/accreditedinvestor.asp).
+investment. (Note that the [SEC has an opinion about who is "accredited" to
+invest](https://www.investopedia.com/terms/a/accreditedinvestor.asp).)
 
 
 ### #3.5: Think about the down round.
