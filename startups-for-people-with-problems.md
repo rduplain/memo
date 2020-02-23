@@ -111,7 +111,7 @@ is a clear measure of that value, and (c) being in a cash-poor position weakens
 negotiation ability, such that an acquirer can wait it out for a better price
 while you run out of money.
 
-People spend weeks, months, and even years on a business model which would fail
+People spend weeks, months, and even years on a business model that would fail
 this simple cocktail-napkin test.
 
 (Why 10%? It's a simple number to characterize your intended market. Note that
@@ -201,7 +201,7 @@ i.e. convertible notes as mentioned above. Besides, a 12% rate of return is
 better invested in lower risk ventures, and startups are best optimized toward
 the highest valuation with the least amount of cash.
 
-There are also financial instruments which provide a same-as-cash line of
+There are also financial instruments that provide a same-as-cash line of
 credit from a conventional bank, but the psychology of startup finance is to
 invest for the long term with high return resulting from high risk. In general,
 your balance sheet takes on cash when you sell shares to an investor or
@@ -284,7 +284,7 @@ accomplished startup CEO. You've arrived.
 No, you haven't. Raising money is not the end goal.
 
 There's such a thing as too much money. Follow-on rounds are going to depend on
-a business which increases in value. Generally, this means revenue. Not just
+a business that increases in value. Generally, this means revenue. Not just
 revenue, but [**multiples** of revenue growth][t2d3]. While getting _any_
 investment is your immediate concern, think about the down-round scenario--the
 case where shares are purchased at a value lower than the previous round--and
@@ -323,10 +323,10 @@ founder's perspective and not the investor's:
   investors for every 1 investor.
 * Several VCs will say, "Sounds great! Come back when you need [some number in
   the millions]."
-* They may also say something which indicates to you, "Oh, and come to us
-  before talking with other investors." Then, you really know that they are
+* They may also say something that indicates to you, "Oh, and come to us before
+  talking with other investors." Then, you really know that they are
   interested, because they think they have a headstart to you on knowing the
-  value of your company.
+  value of your own company.
 
 
 ### #3.7: Millionaire.
@@ -466,7 +466,7 @@ is going to go full-time. The other person in this case could be someone who is
 critical in co-developing the product/service, perhaps as a savvy
 first-customer type who will provide product management part-time while
 continuing to operate another business. This goes counter to popular advice
-that "everyone gets equal equity" which assumes/encourages that all founders go
+that "everyone gets equal equity" that assumes/encourages that all founders go
 all in. There's no "one way" to split equity.
 
 It's possible to achieve a certain decision-making pattern with non-voting
