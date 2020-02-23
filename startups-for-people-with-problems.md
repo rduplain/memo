@@ -216,8 +216,8 @@ due. Treat lines of credit and credit cards like your own cash.)
 ### #3.3: Dilution.
 
 With every new investment, founders dilute. As do any other shareholders:
-common stock holders (anyone receiving equity as part of compensation, founders
-included) and previous investors. This means that if you are 100% owner, or if
+previous investors and common stock holders (anyone receiving equity as part of
+compensation, founders included). This means that if you are 100% owner, or if
 you have a 50/50 split (etc) between founders, then your share in the total
 ownership will decrease as you add each investor. All of this is tracked in a
 document called the capitalization table ("cap table" for "who put in what"
