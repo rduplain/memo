@@ -361,8 +361,8 @@ Be slow in giving out equity _at this point_. Building a successful business is
 a long game. A contribution will feel like a lot today, but will likely be a
 small blip in the long run.
 
-It's not selfish to keep equity to yourself. It's what's best for the
-company. You run a company now.
+It's not selfish to keep equity to yourself. It's what's best for the company.
+You run a company now.
 
 Keeping the cap table clean means that only founders and critical people have
 equity before raising money, and when you raise money, you do so with the full
