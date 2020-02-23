@@ -507,11 +507,11 @@ scope of this discussion:
 2. The people who need your product the most are typically not the decision
    maker and therefore not your customer.
 
-Accordingly, your product needs to be sensitive to the many layers of how
-healthcare is delivered, and your business model needs to account for who is
-making the decision to buy a new product. Often this decision is once or twice
-removed by an enterprise health system or an insurance carrier (or "payer" in
-the broader sense).
+Your product/service needs to be sensitive to the many layers of how healthcare
+is delivered, and your business model needs to account for who is making the
+decision to buy a new product in addition to who is using it. Often this buying
+decision is once or twice removed from its use by an enterprise health system
+or an insurance carrier (or "payer" in the broader sense).
 
 For medical startups focused on a health condition, either directly or
 indirectly, I have found that it is very important to focus on a clinically
