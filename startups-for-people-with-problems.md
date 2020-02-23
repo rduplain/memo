@@ -176,8 +176,9 @@ discussion is at once fast-paced/dizzying and profoundly insightful/accurate.
 
 Short of getting an acquisition offer before you even start--as is fiction in
 _Silicon Valley_--valuation at this stage is going to be more about projections
-than fundamentals. You are starting entirely with intangible value, unless you
-are licensing/transferring existing intellectual property.
+than fundamentals. You are starting entirely with intangible future value,
+unless you are licensing or transferring existing intellectual property or have
+customers on day one.
 
 
 ### #3.2: Getting started without a valuation.
