@@ -49,6 +49,10 @@ provides an exposition for _the moment you consider raising funds_.
 There are many essays on startups. This one is mine. I am speaking from a
 founder perspective.
 
+As you become serious about raising capital, get a lawyer to provide counsel to
+your company, one who understands capital investment, how to manage a board of
+directors, and one who can advise on how to manage the cap table.
+
 
 ## About Me
 
