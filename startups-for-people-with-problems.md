@@ -186,7 +186,9 @@ started. You will uncover many solutions to this very problem. [SAFE
 notes][safe-notes] are one such solution, even with their [own
 problems][safe-note-problems]. The idea is to defer a more firm valuation until
 a later date. More broadly, a convertible note allows a founding team to
-"borrow" money with intent to convert the debt into equity at a future round.
+"borrow" money with intent to convert the debt into equity at a future round,
+discounting the price of equity (e.g. 20%) at the next round of investment for
+having taken a risk in putting money in early.
 
 [safe-notes]: https://www.ycombinator.com/documents/
 [safe-note-problems]: https://techcrunch.com/2017/07/08/why-safe-notes-are-not-safe-for-entrepreneurs/
