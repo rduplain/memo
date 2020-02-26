@@ -53,11 +53,11 @@ founder perspective.
 ## About Me
 
 I am an engineer first and foremost. I have been involved in entrepreneurial
-projects for my entire engineering career. Being a programmer and C-Suite
-executive who has "done it before," I often get the open-ended request to "pick
-your brain" about startups. Ask around, and you'll find that this isn't the
-best way to ask for a meeting (with anyone). Don't "pick brains." Ask
-questions in context.
+projects for my entire engineering career. Being a programmer and early- to
+mid-stage C-Suite executive who has "done it before," I often get the
+open-ended request to "pick your brain" about startups. Ask around, and you'll
+find that this isn't the best way to ask for a meeting (with anyone). Don't
+"pick brains." Ask questions in context.
 
 
 ## Table of Contents
