@@ -193,13 +193,13 @@ a later date. More broadly, a convertible note allows a founding team to
 
 You can raise funds with debt instead of selling shares of equity. This often
 means a "note payable" at a maturity date, with some percentage of return. For
-example, borrow $100k and repay $112k a year later, using 12% of simple
-interest maturing annually. In general, investors will want to convert the note
-into equity over time, reinvesting the return instead of remitting payment,
-which ultimately arrives at note instruments for future equity,
-i.e. convertible notes as mentioned above. Besides, a 12% rate of return is
-better invested in lower risk ventures, and startups are best optimized toward
-the highest valuation with the least amount of cash.
+example, borrow $100k and repay $106k a year later, using 6% of simple interest
+maturing annually. In general, investors will want to convert the note into
+equity over time, reinvesting the return instead of remitting payment, which
+ultimately arrives at note instruments for future equity, i.e. convertible
+notes as mentioned above. Besides, a 6% rate of return is better invested in
+lower risk ventures, and startups are best optimized toward the highest
+valuation with the least amount of cash.
 
 There are also financial instruments that provide a same-as-cash line of
 credit from a conventional bank, but the psychology of startup finance is to
