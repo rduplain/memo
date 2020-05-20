@@ -45,3 +45,10 @@ routed in order for a subnet in order for your load d-balancer to be accessible
 from the public internet. This example is entirely undocumented when working
 with more than a single VPC. When in doubt, consider how you'd do it in the AWS
 Console manually, then line up resource by resource, one at a time.
+
+**Usage.** Use Terraform 0.12 and later (just bump to 1.0 already!). Resist the
+urge to use dynamic blocks, unless you are prepared to trade-off readability
+for (non-intuitive) concision. Use `terraform fmt` with abandon. Be slow to use
+`locals`. Use `random_string` when you need a random string, incl. service
+passwords. Re-run `terraform init` whenever you add new "provider" blocks like
+`locals` and `random`.
