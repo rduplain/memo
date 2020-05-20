@@ -52,3 +52,7 @@ for (non-intuitive) concision. Use `terraform fmt` with abandon. Be slow to use
 `locals`. Use `random_string` when you need a random string, incl. service
 passwords. Re-run `terraform init` whenever you add new "provider" blocks like
 `locals` and `random`.
+
+**Development.** Sign up for a new free-tier AWS account and develop in
+"production." You'll probably only spend a few dollars over a few months (but
+keep an eye on it instead of taking my word for it).
