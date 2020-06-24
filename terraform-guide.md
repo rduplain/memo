@@ -1,3 +1,27 @@
+# Terraform: An Opinionated Guide
+
+## Resources
+
+1. [Terraform Tutorials](https://learn.hashicorp.com/terraform)
+2. [Terraform: Up and Running](https://www.terraformupandrunning.com/)
+   by Yevgeniy Brikman, 2nd Edition (2019)
+   ([Code](https://github.com/brikis98/terraform-up-and-running-code))
+3. [Terraform Docs](https://www.terraform.io/docs/providers/index.html)
+
+Terraform docs for resource/data directives -- use them. Every *resource* doc
+with a `/r/` path also has a *data* doc by replacing `/r/` with `/d/`:
+
+* [Resource: aws_instance][r_instance]
+* [Data: aws_instance][d_instance]
+
+[r_instance]: https://www.terraform.io/docs/providers/aws/r/instance.html
+[d_instance]: https://www.terraform.io/docs/providers/aws/d/instance.html
+
+
+## Guidance
+
+*Opinions to accelerate putting Terraform into production.*
+
 **State.** Best to start with a single dev environment to control state. You
 can later figure out where you want to put state based on your workflow. That
 is, start with just the `terraform` binary and worry about Terraform Cloud
