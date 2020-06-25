@@ -18,6 +18,45 @@ with a `/r/` path also has a *data* doc by replacing `/r/` with `/d/`:
 [d_instance]: https://www.terraform.io/docs/providers/aws/d/instance.html
 
 
+## Overview
+
+Terraform's value proposition is clear: write configuration files to make data
+center provisioning both automated and repeatable; track these files with
+version control to have declarative infrastructure as code.
+
+Terraform's design decidedly passes through the underlying resource concepts.
+When writing a .tf file, you think in terms of resources provided by the vendor
+(e.g. the various AWS services). This has the advantage of being able to refer
+to vendor documentation and control panels (e.g. AWS Console web UI) as you
+draft and revise configuration.
+
+This pass-through abstraction model, however, isn't an abstraction of
+infrastructure itself. If you want to say "provision a server that runs a web
+server, put it on a private subnet, and terminate HTTPS with a load balancer,"
+you say it by writing configuration directives for each of the 20 resources
+made available by the provider (e.g. AWS).
+
+Terraform's unit of composition is its module, but modules are inherently
+shallow given the natural pressure to proliferate non-default variables in
+order to accurately specify infrastructure. Ideally, composition is
+[deep](https://www.youtube.com/watch?v=bmSAYlu0NcY&t=784), hiding away as much
+underlying detail as possible for each required parameter. Modules have their
+place in Terraform, especially for in-house reuse, but they do not lend
+themselves to a catalog of common patterns because you have to read--and often
+rewrite--each line of the module. Modules are shallow indeed.
+
+Such shallow abstraction of infrastructure creates a void to be filled by a
+next generation of tools with deep abstraction: data-driven configuration files
+that say "provision a server that runs a web server, put it on a private
+subnet, and terminate HTTPS with a load balancer," without having to say
+anything further. (Example: [Pulumi](https://www.pulumi.com/).) There's a
+trade-off, however. In order to get that deeply abstracted configuration file,
+you have to write the code that interprets it. It's in this trade space that we
+see Terraform is still an optimal tool, the incumbent candidate in writing
+infrastructure as code, and the natural choice when you already think in terms
+of resources provided to you by your vendor.
+
+
 ## Guidance
 
 *Opinions to accelerate putting Terraform into production.*
