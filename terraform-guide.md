@@ -73,6 +73,14 @@ EBS volume attachments, the 5+ things you have to do to get a load balancer,
 ... Some resources get inlined, e.g. EBS volume on a launch configuration, but
 you are ultimately lining up one Terraform block per resource.
 
+**One-at-a-time.** Even when you can inline a resource with a nested
+declaration, prefer individual resources, e.g. `aws_security_group_rule`
+instead of a block nested within `aws_instance`. doing so will prevent
+lifecycle issues where Terraform has to destroy more than necessary in order to
+guarantee synchronized configuration. This is particularly an issue when making
+changes to data volumes, because you surely want to avoid destroying a volume
+when adding additional block storage resources.
+
 **Verbosity.** Terraform's one-to-one resource mapping gets very verbose, and
 you'll find yourself wanting something higher level. Like a popular bingeworthy
 show that you just don't get yet, stick with it. Remind yourself how hacky this
