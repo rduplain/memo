@@ -20,9 +20,9 @@ with also has a *data* doc:
 
 ## Overview
 
-Terraform's value proposition is clear: write configuration files to make data
-center provisioning both automated and repeatable; track these files with
-version control to have declarative infrastructure as code.
+Terraform's value proposition is clear: write configuration files to provision
+a data center that's automated, repeatable, and incremental; track these files
+with version control to have declarative infrastructure as code.
 
 Terraform's design decidedly passes through the underlying resource concepts.
 When writing a .tf file, you think in terms of resources provided by the vendor
