@@ -9,7 +9,7 @@
 3. [Terraform Docs](https://www.terraform.io/docs/providers/index.html)
 
 Terraform docs for resource/data directives -- use them. Every *resource* doc
-with a `/r/` path also has a *data* doc by replacing `/r/` with `/d/`:
+with also has a *data* doc:
 
 * [Resource: aws_instance][r_instance]
 * [Data: aws_instance][d_instance]
