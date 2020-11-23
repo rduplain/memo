@@ -1,3 +1,8 @@
+% Reflections of Software as Craft
+% [R. DuPlain](https://github.com/rduplain)
+% 2020
+
+
 ## 1. System of Record
 
 | _State of the system:_
