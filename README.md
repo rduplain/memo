@@ -1,4 +1,5 @@
 * [Reflections of Software as Craft](software-as-craft-reflections.pdf)
 * [Startups for People with Problems](startups-for-people-with-problems.md)
 * [Terraform: An Opinionated Guide](terraform-guide.md)
+* [AWS Load Balancers & End-to-End Encryption](aws-load-balancer-end-to-end-encryption.md)
 * [Productive "Technical Debt"](technical-debt.md)
