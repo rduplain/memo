@@ -63,7 +63,7 @@
 
 | _Design by contract_
 | _down to surface area_
-| _that's easy to test._
+| _verifiable._
 
 
 ## 10. Deadline as Cost
