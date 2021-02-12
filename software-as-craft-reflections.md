@@ -111,7 +111,7 @@
 ## 16. Craft as Prerequisite
 
 | _Ambiguity,_
-| _now, not now, total nonsense;_
+| _now, not now_ -- _total nonsense_ --
 | _form follows finance._
 
 
