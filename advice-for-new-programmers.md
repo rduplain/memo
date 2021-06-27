@@ -2,6 +2,10 @@ College is important, and a degree in computer science or computer engineering w
 
 Meaning, to become a programmer, in addition to considering a good college, you'll have to teach yourself to code. Start with [freeCodeCamp](https://www.freecodecamp.org/), which is oriented more toward people changing careers than those headed to college, but all the better to learn early that neither age nor education make you a programmer. (Write code that people use.)
 
-With the goal to write code that people use, the trick is to write code that _you_ use. You have a computer—program it to solve a problem.
+Build time into your schedule for regular practice with interactive practice problems that you find through freeCodeCamp and other online resources. If you can make 10-20 hours a week available, commit 11 weeks to take this free, self-paced [online course from Harvard called CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science), which you can start any time. This makes for a great summer course, a way to kickstart your computer science education appropriate for whatever path you choose.
+
+Self-paced learning does not mean that you are alone. You can connect online with others who are also teaching themselves programming. [freeCodeCamp has a forum](https://forum.freecodecamp.org/), and [CS50 makes special effort to set up communities](https://cs50.harvard.edu/x/2021/communities/). Join [discord.gg/cs50](https://discord.gg/cs50) and introduce yourself. People really want to see you succeed; the sooner you introduce yourself and connect with others, the better.
+
+Overall, with the goal to write code that people use, the trick is to write code that _you_ use. You have a computer—program it to solve a problem. As you gain skills through these courses, consider how to apply them in your day to day. Even a tiny program of 10 or 100 lines of code will go a long way.
 
 It takes years to become a proficient programmer, even after graduating college. The advice here is to accelerate that path for you, to encourage you to learn code in addition to college. Above all, you need practice. Unless you are reading this on a printout, you have in front of you a computer [waiting for you](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements) to say "Hello, world!"
