@@ -1,5 +1,8 @@
 # Productive "Technical Debt"
 
+Summary: within the same metaphor, a better term for "technical debt" is
+"unmanaged investment," which isn't nearly as much fun to say.
+
 Technical debt is meaningful when it characterizes the decision to apply
 prototypical methods and shortcuts as a means of leverage toward a
 business/organization benefit. If you're not making these decisions in a
