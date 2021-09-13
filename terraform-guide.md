@@ -1,5 +1,7 @@
 # Terraform: An Opinionated Guide
 
+_Note that this document existed at a point in time, circa Aug 2020._
+
 ## Resources
 
 1. [Terraform Tutorials](https://learn.hashicorp.com/terraform)
