@@ -1,4 +1,5 @@
 * [Reflections of Software as Craft](software-as-craft-reflections.pdf)
+* [Programmers' Workshop](programmers-workshop.md)
 * [Craft, Programming, and Engineering](craft-programming-engineering.md)
 * [College Advice for New Programmers](advice-for-new-programmers.md)
 * [Systems Engineering Grad Admissions Essay](systems-engineering-grad-admissions-essay.md)
